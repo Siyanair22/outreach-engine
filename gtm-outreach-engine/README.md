@@ -45,7 +45,7 @@ An AI-powered tool that automates prospect research and personalized outreach em
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- API keys: Anthropic (Claude), Hunter.io (optional), Clearbit (optional)
+- API keys: Anthropic (Claude), Hunter.io (optional), Clearbit (optional) → API keys: Google Gemini (free tier at aistudio.google.com), Hunter.io (optional), Clearbit (optional)
 
 ### Backend Setup
 ```bash
