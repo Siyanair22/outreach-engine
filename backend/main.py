@@ -2,7 +2,7 @@
 GTM Outreach Engine — API Entry Point
 
 A tool for automating prospect research and personalized outreach email
-generation. Built with FastAPI, SQLAlchemy, and the Anthropic Claude API.
+generation. Built with FastAPI, SQLAlchemy, and the Google Gemini API.
 
 Run with: uvicorn main:app --reload
 API docs: http://localhost:8000/docs

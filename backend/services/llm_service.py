@@ -59,7 +59,7 @@ REQUIREMENTS:
 - Tone: {tone}
 - The email must reference at least ONE specific detail about their company (not generic)
 - Keep the subject line under 60 characters
-- Keep the email body under 150 words
+- Keep the email body under 250 words
 - Include a clear, low-friction call to action (e.g., "15-minute call" not "buy our product")
 - Do NOT use clichéd openers like "I hope this email finds you well"
 - Do NOT be pushy or salesy — be helpful and relevant
